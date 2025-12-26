@@ -1406,5 +1406,325 @@
         ],
         "a": 1,
         "e": "Osmanlı Devleti, mülkiyetin devlette olması şartıyla toprağı halka dağıtarak, Avrupa'da görülen büyük feodal beylerin (derebeylerinin) oluşmasını baştan önlemiştir. Bu sistem, padişahın otoritesini sarsacak yerel güç odaklarının çıkmasını engellemiş ve merkezi otoriteyi mutlak kılmıştır."
+    },
+    {
+        "id": "tarih_089",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-mimari-kulturu",
+        "subtopic": "Osmanlı Mimari Kültürü",
+        "q": "Osmanlı mimarisinde külliye kavramı, cami etrafında toplanan sosyal ve hayır kurumlarını ifade eder. Mimar Sinan döneminde inşa edilen Süleymaniye Külliyesi, cami, medrese, hastane, aşevi ve türbe gibi yapıları barındırır. Bu külliyeler, Osmanlı toplumunun eğitim, sağlık ve ibadet ihtiyaçlarını karşılamada önemli rol oynamıştır. Buna göre aşağıdakilerden hangisi Süleymaniye Külliyesi'nin özelliklerinden biri değildir?",
+        "o": [
+            "Dört minareli bir camiye sahiptir",
+            "Kanuni Sultan Süleyman adına yaptırılmıştır",
+            "Darüşşafaka okulu içermektedir",
+            "İstanbul'un en büyük külliyesidir",
+            "Mimar Sinan tarafından tasarlanmıştır"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. Darüşşafaka, 19. yüzyılda Sultan Abdülmecid döneminde kurulmuş bir okuldur ve Süleymaniye Külliyesi'nde yer almaz."
+    },
+    {
+        "id": "tarih_090",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "divan-edebiyati",
+        "subtopic": "Divan Edebiyatı",
+        "q": "Osmanlı Divan edebiyatında gazel, kaside ve mesnevi gibi nazım şekilleri yaygındır. Fuzuli'nin Leyla ile Mecnun mesnevisi, aruz vezniyle yazılmış tasavvufi bir aşk hikayesidir. Bu edebiyat geleneği, Arap ve Fars etkilerini taşırken Türkçenin zenginleşmesine katkı sağlamıştır. Aşağıdakilerden hangisi Divan edebiyatının temel özelliklerinden biri değildir?",
+        "o": [
+            "Mahlas kullanımı yaygındır",
+            "Aruz veznini kullanır",
+            "Aşk ve tasavvuf temaları hâkimdir",
+            "Hece vezni tercih edilir",
+            "Alegori ve istiare sanatı boldur"
+        ],
+        "a": 3,
+        "e": "Doğru cevap D. Divan edebiyatı aruz veznini kullanır, hece vezni halk edebiyatına özgüdür."
+    },
+    {
+        "id": "tarih_091",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-hat-sanati",
+        "subtopic": "Osmanlı Hat Sanatı",
+        "q": "I. Osmanlı hat sanatında sülüs, nesih, kufi ve ta'lik gibi yazı stilleri geliştirilmiştir. II. Şeyh Hamdullah, Osmanlı hat sanatının piri kabul edilir ve II. Bayezid döneminde yaşamıştır. III. Hat sanatı, cami kitabeleri ve levhalarla mimariye entegre edilmiştir. Yukarıdakilerden hangileri Osmanlı hat sanatıyla ilgilidir?",
+        "o": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+        ],
+        "a": 4,
+        "e": "Doğru cevap E. Üç ifade de Osmanlı hat sanatının temel unsurlarını doğru yansıtmaktadır."
+    },
+    {
+        "id": "tarih_092",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "enderun-okulu",
+        "subtopic": "Enderun Okulu",
+        "q": "Osmanlı saray eğitim sistemi olan Enderun Mektebi, devşirme çocuklarının devlet adamı olarak yetiştirildiği kurumdur. Burada fen, edebiyat, müzik ve spor eğitimi verilirken sadakat vurgulanırdı. Bu sistem, Osmanlı idaresinin meritokrasi unsurlarını taşır. Enderun'un işleyişi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "o": [
+            "Devşirme olmayanlar giremezdi",
+            "Üç aşamalı eğitim sistemi vardı",
+            "Padişahın doğrudan denetimi altındaydı",
+            "Sadece Müslümanlar eğitim alırdı",
+            "Mezunlar vezir ve paşa olabilirdi"
+        ],
+        "a": 3,
+        "e": "Doğru cevap D. Devşirmeler Hristiyan kökenli olup İslamlaştırılır ve Müslüman olarak eğitilirdi."
+    },
+    {
+        "id": "tarih_093",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-muzigi",
+        "subtopic": "Osmanlı Klasik Müziği",
+        "q": "Osmanlı klasik Türk müziği, fasıl ve beste formlarında gelişmiştir. Sadettin Kaynak ve Dede Efendi gibi besteciler, Mevlevi müziğiyle etkileşim içindedir. Bu müzik, saray ve tekke ortamlarında icra edilirdi. Aşağıdakilerden hangisi Osmanlı müziğinin özelliklerinden değildir?",
+        "o": [
+            "Türk müziği makamlarını kullanır",
+            "Nota yerine sözlü nakil yaygındır",
+            "Batı armoni sistemine dayanır",
+            "Karacaoglan gibi şairler etkilenmiştir",
+            " Ney ve ud gibi sazlar ön plandadır"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. Osmanlı müziği monofoniğe dayanır, Batı armonisi kullanılmaz."
+    },
+    {
+        "id": "tarih_094",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-minyatur-sanati",
+        "subtopic": "Osmanlı Minyatür Sanatı",
+        "q": "I. Osmanlı minyatür sanatı, Nakkâşhane'de saray olaylarını resmetmek için geliştirilmiştir. II. Levni, Lale Devri'nde figüratif minyatürleriyle tanınır. III. Minyatürlerde perspektif ve gölgelendirme kuralları katı şekilde uygulanır. Yukarıdakilerden hangileri Osmanlı minyatür sanatıyla ilgilidir?",
+        "o": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. III yanlıştır; minyatürde perspektif ve gölgelendirme kullanılmaz, düz ve simgesel bir üslup hâkimdir."
+    },
+    {
+        "id": "tarih_095",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "medrese-egitimi",
+        "subtopic": "Osmanlı Medrese Eğitimi",
+        "q": "Osmanlı medreseleri, fıkıh, kelam, tefsir ve mantık gibi İslami ilimlerin öğretildiği kurumlardı. Sahn-ı Seman medreseleri, II. Mahmut döneminde fen bilimleri eklenerek modernleşmiştir. Bu sistem, ulema sınıfını oluştururdu. Medrese müfredatıyla ilgili aşağıdakilerden hangisi söylenebilir?",
+        "o": [
+            "Sadece dini ilimler okutulurdu",
+            "Harita ve astronomi dersleri verilirdi",
+            "Kadınlar da eğitim alabilirdi",
+            "Mezunlar müderris olurdu",
+            "Tüm medreseler İstanbul'daydı"
+        ],
+        "a": 3,
+        "e": "Doğru cevap D. Mezunlar müderris olarak atanır, sistem ulema yetiştirirdi."
+    },
+    {
+        "id": "tarih_096",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "saray-kulturu",
+        "subtopic": "Osmanlı Saray Kültürü",
+        "q": "Osmanlı saray kültüründe harem, padişahın özel hayat alanı olup valide sultan etkiliydi. Topkapı Sarayı'nda Divan-ı Hümayun devlet işlerini yürütürdü. Bu kültür, protokol ve sanatı birleştirirdi. Saray teşkilatıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+        "o": [
+            "Harem ağaları idareyi yürütürdü",
+            "Valide sultanlar etkili olurdu",
+            "Enderun devşirmeleri yetiştirirdi",
+            "Padişah divana her gün katılırdı",
+            "Çırağan Sarayı kışlık saraydı"
+        ],
+        "a": 4,
+        "e": "Doğru cevap E. Çırağan, 19. yüzyılda yazlık saray olarak kullanılmıştır."
+    },
+    {
+        "id": "tarih_097",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "halk-edebiyati",
+        "subtopic": "Osmanlı Halk Edebiyatı",
+        "q": "I. Yunus Emre, ilahi ve nefeslerle tasavvufi halk şiirinin öncüsüdür. II. Karacaoğlan, güzellik ve doğa temalı koşmalar söyler. III. Halk edebiyatında divan şairleri ağırlıktadır. Yukarıdaki bilgilere göre hangileri Osmanlı halk edebiyatı şairleridir?",
+        "o": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. III yanlıştır; halk edebiyatı âşık ve tekke ozanlarına dayanır, divan şairleri ayrıdır."
+    },
+    {
+        "id": "tarih_098",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-tezhip-sanati",
+        "subtopic": "Osmanlı Tezhip Sanatı",
+        "q": "Osmanlı tezhip sanatı, kitap süslemelerinde altın ve renkli boyalarla motifler oluşturmayı kapsar. Murakka albümlerinde hat örnekleri tezhiple desteklenir. Bu sanat, Fars minyatüründen etkilenmiştir. Tezhiple ilgili aşağıdakilerden hangisi yanlıştır?",
+        "o": [
+            "Kitapların ilk ve son sayfalarını süsler",
+            "Altın varak kullanımı yaygındır",
+            "Figüratif resimler hâkimdir",
+            "Minyatürle ilişkilidir",
+            "Nakkaşlar tarafından yapılır"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. Tezhip soyut ve bitkisel motiflere dayanır, figüratif değildir."
+    },
+    {
+        "id": "tarih_099",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "mevlevi-tarikatı",
+        "subtopic": "Mevlevi Tarikatı Kültürü",
+        "q": "Osmanlı'da Mevlevi tarikatı, sema ayiniyle tasavvufi musikiyi birleştirmiştir. Mevlana'nın Mesnevi'si öğreti kaynağıdır. Galata Mevlevihanesi ünlüdür. Bu tarikatın kültürel katkıları ile ilgili aşağıdakilerden hangisi söylenebilir?",
+        "o": [
+            "Sadece askeri eğitim verirdi",
+            "Edebiyat ve musiki gelişirdi",
+            "Padişahlar uzak dururdu",
+            "Kadınlar sema yapamazdı",
+            "Anadolu'da yayılmamıştı"
+        ],
+        "a": 1,
+        "e": "Doğru cevap B. Mevlevilik, musiki ve edebiyatın gelişmesine büyük katkı sağlamıştır."
+    },
+    {
+        "id": "tarih_100",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-festivalleri",
+        "subtopic": "Osmanlı Şenlik Kültürü",
+        "q": "I. Lale Devri'nde Surname-i Vehbi, şehzadelerin sünnet şenliklerini anlatır. II. Osmanlı'da cülûs törenleri padişah tahta çıkışını kutlardı. III. Şenliklerde sadece askeri geçitler olurdu. Yukarıdakilerden hangileri Osmanlı şenlik kültürüne örnektir?",
+        "o": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. III yanlıştır; şenlikler musiki, tiyatro ve ziyafetleri de içerirdi."
+    },
+    {
+        "id": "tarih_101",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "baki-ve-nedim",
+        "subtopic": "Divan Şairleri",
+        "q": "Osmanlı Divan şiirinde Baki, Süleymanî mahlasıyla kasideleriyle tanınır. Nedim ise Lale Devri'nin neşeli gazelleriyle öne çıkar. Bu şairler, klasik üslubu sürdürmüştür. Baki ve Nedim'in eserleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+        "o": [
+            "Her ikisi de heceyle şiir yazmıştır",
+            "Baki kaside, Nedim gazelde ustadır",
+            "Nedim tasavvufi temaları işlemiştir",
+            "Baki halk şairidir",
+            "Her ikisi de kadın şairdir"
+        ],
+        "a": 1,
+        "e": "Doğru cevap B. Baki kaside şairi, Nedim gazel ustasıdır."
+    },
+    {
+        "id": "tarih_102",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-kagit-sanati",
+        "subtopic": "Ebrû ve Kat'ı Sanatı",
+        "q": "Osmanlı'da ebrû sanatı, mermerimsi desenli kâğıt üretimiyle kitap süslemeciliğinde kullanılır. Kat'ı ise kâğıt oyma sanatıdır. Bu sanatlar, nakkaşhânede gelişmiştir. Buna göre aşağıdakilerden hangisi Osmanlı kâğıt sanatlarıyla ilgili değildir?",
+        "o": [
+            "Ebrû su üstünde yapılır",
+            "Kat'ı makasla kesimdir",
+            "Litografi baskı tekniğidir",
+            "Tezhiple birlikte kullanılır",
+            "Murakka'larda yer alır"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. Litografi 19. yüzyıl Batı baskı tekniğidir, geleneksel kâğıt sanatı değildir."
+    },
+    {
+        "id": "tarih_103",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-cini-sanati",
+        "subtopic": "Çini Sanat",
+        "q": "I. İznik çinileri, mavi-beyaz ve mor renklerle Osmanlı camilerini süslemiştir. II. Kütahya çinileri, halk evleri için üretilmiştir. III. Çini sanatı, Selçuklu'dan devralınmıştır. Yukarıdakilerden hangileri Osmanlı çini sanatı özellikleridir?",
+        "o": [
+            "Yalnız I",
+            "Yalnız II",
+            "I ve II",
+            "II ve III",
+            "I, II ve III"
+        ],
+        "a": 4,
+        "e": "Doğru cevap E. Üç ifade de Osmanlı çini sanatının gelişimini doğru belirtir."
+    },
+    {
+        "id": "tarih_104",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "ulema-sinfı",
+        "subtopic": "Ulema Kültürü",
+        "q": "Osmanlı'da ulema sınıfı, medrese mezunları olup Şeyhülislam önderliğindeydi. Fetvalar dini ve idari konularda bağlayıcıydı. Bu sınıf, padişahı dengeleyici rol üstlenirdi. Ulema etkisiyle ilgili bir senaryoda, aşağıdaki gibi bir durumda hangisi beklenebilir?",
+        "o": [
+            "Padişah fetvayı görmezden gelir",
+            "Şeyhülislam tahttan indirme fetvası verir",
+            "Ulema sarayla çatışmaz",
+            "Medreseler kapatılır",
+            "Fetva askeri emir olur"
+        ],
+        "a": 1,
+        "e": "Doğru cevap B. Ulema, gerekirse padişahı tahttan indirme fetvası verebilirdi."
+    },
+    {
+        "id": "tarih_105",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-kuyumculuk",
+        "subtopic": "Kuyumculuk ve Takı Kültürü",
+        "q": "Osmanlı kuyumculuk sanatı, gümüş ve altın işlemelerle mücevherat üretirdi. Divanhane mücevherleri törenlerde kullanılırdı. Bu sanat, Bizans etkisini taşır. Karşılaştırmalı olarak aşağıdakilerden hangisi Osmanlı kuyumculuğunun farkıdır?",
+        "o": [
+            "Altın işlemeciliği yaygındır",
+            "Taş kakma tekniği kullanılır",
+            "Sadece erkekler için üretilir",
+            "Saray ve halk sanatıdır",
+            "Export için üretilmez"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. Hem erkek hem kadın takıları üretilirdi, cinsiyet ayrımı yoktu."
+    },
+    {
+        "id": "tarih_106",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "bektaşi-tarikatı",
+        "subtopic": "Bektaşi Kültürü",
+        "q": "I. Bektaşilik, Hacı Bektaş Veli'ye nisbet edilir ve Yeniçeri Ocağı'nın tarikatıdır. II. Bektaşi tekkeleri, ney ve semahla tasavvufu yaşatır. III. Bektaşilik Sünni tarikattır. Bir senaryoda Yeniçeri isyanında aşağıdakilerden hangisi Bektaşi etkisiyle ilişkilendirilir?",
+        "o": [
+            "Yalnız I",
+            "I ve II",
+            "II ve III",
+            "I, II ve III",
+            "Yalnız III"
+        ],
+        "a": 1,
+        "e": "Doğru cevap B. III yanlıştır; Bektaşilik Alevilikle ilişkilidir, Şiî unsurlar taşır."
+    },
+    {
+        "id": "tarih_107",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "osmanli-halI-sanati",
+        "subtopic": "Halıcılık Sanatı",
+        "q": "Osmanlı halıcılığında Uşak, Gördes ve Ladik halıları düğüm tekniğiyle üretilirdi. Saray halıları Hereke'de dokunurdu. Bu sanat, ihracat için önemliydi. Halıcılıkla ilgili analizde aşağıdakilerden hangisi yanlıştır?",
+        "o": [
+            "Düz dokuma değildir",
+            "Bitkisel motifler hâkimdir",
+            "Makine üretimi yaygındır",
+            "Camiye serilirdi",
+            "Ticari değeri yüksektir"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. Osmanlı halıları el dokumasıdır, makine üretimi Tanzimat sonrasıdır."
+    },
+    {
+        "id": "tarih_108",
+        "topicId": "9WTotPoDW5OuWxsCf4Li",
+        "subtopicId": "fuzuli-esi",
+        "subtopic": "Şair Fuzûlî",
+        "q": "Fuzûlî, Osmanlı Divan edebiyatının Bağdat şairi olup Leyla vü Mecnun'la tanınır. Arapça, Farsça ve Türkçe divanları vardır. Tasavvufi üslubu etkilidir. Fuzûlî'nin eser analizinde, aşağıdaki ifadelerden hangileri doğrudur? I. Şii inancına sahiptir. II. Kanuni'ye kaside sunmuştur. III. Halk dili kullanmıştır.",
+        "o": [
+            "Yalnız I",
+            "I ve II",
+            "II ve III",
+            "I, II ve III",
+            "Yalnız III"
+        ],
+        "a": 1,
+        "e": "Doğru cevap B. I ve II doğrudur; III yanlıştır, divan dili kullanmıştır."
     }
 ]

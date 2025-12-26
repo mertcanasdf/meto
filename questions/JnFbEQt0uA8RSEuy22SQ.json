@@ -3196,5 +3196,165 @@
         "e": "Osmanlı Devleti 1299'da Osman Bey tarafından kurulmuştur.",
         "id": "tarih_177",
         "topicId": "JnFbEQt0uA8RSEuy22SQ"
+    },
+    {
+        "id": "tarih_178",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "asya-hun-devleti",
+        "subtopic": "Asya Hun Devleti",
+        "q": "Aşağıdakilerden hangisi Asya Hun Devleti'nde Mete Han döneminde gerçekleştirilen ıslahat hareketlerinden biri değildir?",
+        "o": [
+            "A) Onlu sisteme dayalı ordu teşkilatı kurulması",
+            "B) Çin'e karşı seferler düzenlenerek vergiye bağlanması",
+            "C) Devlet yönetiminde ikili teşkilatın oluşturulması",
+            "D) Göktürk alfabesinin geliştirilmesi",
+            "E) Süvari birliklerinin ağırlıklı kullanılması"
+        ],
+        "a": 3,
+        "e": "Doğru cevap D. Göktürk alfabesi Göktürkler döneminde geliştirilmiştir; Mete Han dönemi Hunlara aittir."
+    },
+    {
+        "id": "tarih_179",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "mete-han-islahatları",
+        "subtopic": "Mete Han Islahatları",
+        "q": "I. Çin Seddi'nin inşası Hun tehdidi karşısında hızlandırılmıştır.\nII. Mete Han, babası Teoman'ı tahttan indirmiştir.\nIII. Hunlar, Juan Juanlara karşı Göktürkleri desteklemiştir.\nYukarıdakilerden hangileri doğrudur?",
+        "o": [
+            "A) Yalnız I",
+            "B) Yalnız II",
+            "C) I ve II",
+            "D) II ve III",
+            "E) I, II ve III"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. I ve II doğru olup, III yanlıştır; Göktürkler Juan Juanlara karşı kendi mücadelelerini vermişlerdir."
+    },
+    {
+        "id": "tarih_180",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "gokturk-kaganligi",
+        "subtopic": "Göktürk Kağanlığı",
+        "q": "Göktürk Kağanlığı'nın kurucusu Bumin Kağan ile kardeşi İstemi Kağan'ın Orta Asya'daki fetihleri sonucunda aşağıdaki devletlerden hangisi yıkılmıştır?",
+        "o": [
+            "A) Ak Hunlar",
+            "B) Juan Juanlar",
+            "C) Avarlar",
+            "D) Sabirler",
+            "E) Peçenekler"
+        ],
+        "a": 1,
+        "e": "Doğru cevap B. Bumin ve İstemi Kağanlar Juan Juan Devleti'ni yıkarak Göktürk Devleti'ni kurmuşlardır."
+    },
+    {
+        "id": "tarih_181",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "batı-hunlar",
+        "subtopic": "Batı Hunlar",
+        "q": "I. Batı Hunları, Sasani İmparatorluğu ile mücadele etmiştir.\nII. Çiçi Han, Batı Hun Devleti'nin kurucusudur.\nIII. Batı Hunlar, Akdeniz'e ulaşmışlardır.\nYukarıdakilerden hangileri doğrudur?",
+        "o": [
+            "A) Yalnız I",
+            "B) Yalnız II",
+            "C) I ve II",
+            "D) II ve III",
+            "E) I, II ve III"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. I ve II doğrudur; III yanlıştır, Batı Hunlar Akdeniz'e ulaşmamıştır."
+    },
+    {
+        "id": "tarih_182",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "avrupa-hun-devleti",
+        "subtopic": "Avrupa Hun Devleti",
+        "q": "Avrupa Hun Devleti'nde Atilla'nın tahta çıkmasından sonra aşağıdaki topluluklardan hangisi Hun egemenliğine boyun eğmemiştir?",
+        "o": [
+            "A) Vizigotlar",
+            "B) Ostrogotlar",
+            "C) Romalılar",
+            "D) Sarmatlar",
+            "E) Franklar"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. Romalılar (Doğu Roma) Hunlara karşı direnmiş ve Katalaunum Savaşı'nda müttefiklerle yenilgiye uğratmıştır."
+    },
+    {
+        "id": "tarih_183",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "turk-boylari",
+        "subtopic": "Türk Boyları",
+        "q": "I. Oğuzlar, Gök Türklerden sonra Orta Asya'da en geniş coğrafyaya yayılmıştır.\nII. Karluklar, Talas Savaşı'nda Abbasilere destek vermiştir.\nIII. Yağmalar, Orta Asya'da yerleşik hayattan uzak kalmışlardır.\nYukarıdakilerden hangileri doğrudur?",
+        "o": [
+            "A) Yalnız I",
+            "B) Yalnız II",
+            "C) I ve II",
+            "D) II ve III",
+            "E) I, II ve III"
+        ],
+        "a": 3,
+        "e": "Doğru cevap D. II ve III doğrudur; I yanlıştır, Oğuzlar yayılma öncesi diğer boylar kadar geniş değildir."
+    },
+    {
+        "id": "tarih_184",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "ak-hunlar",
+        "subtopic": "Ak Hunlar",
+        "q": "Bir tarihçi, Ak Hun Devleti'nin Hindistan'a seferler düzenleyerek Gupta İmparatorluğu'nu zayıflattığını ve Sasani-Hun ilişkilerini yorumladığını belirtmektedir. Buna göre aşağıdakilerden hangisi söylenebilir?",
+        "o": [
+            "A) Ak Hunlar tamamen göçebe kalmıştır",
+            "B) Ak Hunlar, Türk-İran sentezi oluşturmuştur",
+            "C) Ak Hunlar, Çin'e vergi ödemiştir",
+            "D) Ak Hunlar, Göktürkler tarafından kurulmuştur",
+            "E) Ak Hunlar, Avrupa'ya göç etmiştir"
+        ],
+        "a": 1,
+        "e": "Doğru cevap B. Ak Hunlar, Türk kökenli olup yerleşik İran unsurlarıyla sentez yapmışlardır."
+    },
+    {
+        "id": "tarih_185",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "gokturk-ikilik-yonetimi",
+        "subtopic": "Göktürk İkili Yönetimi",
+        "q": "Göktürklerde Doğu-Batı kağanlık ayrılığı sonucunda İstemi Kağan, Orta Asya'dan Hazar Denizi'ne uzanan bölgeleri yönetirken, aşağıdaki gelişmelerden hangisi gözlemlenmiştir?",
+        "o": [
+            "A) Çin ile sıkı ittifak kurulması",
+            "B) Sasani İmparatorluğu ile dostluk anlaşması",
+            "C) Avarların Avrupa'dan çekilmesi",
+            "D) Juan Juanların yeniden güçlenmesi",
+            "E) Uygurların bağımsızlık ilan etmesi"
+        ],
+        "a": 2,
+        "e": "Doğru cevap B. İstemi Kağan, Sasani İmparatorluğu ile ittifak kurarak Ak Hunları birlikte yenmiştir."
+    },
+    {
+        "id": "tarih_186",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "orhun-yazitlari",
+        "subtopic": "Orhun Yazıtları",
+        "q": "II. Göktürk Kağanlığı döneminde Çin baskısı altında kalan bir kağan, halkını uyarmak için yazıt diktirmiş olsaydı, aşağıdaki unsurlardan hangisi bu yazıtın ana teması olmazdı?",
+        "o": [
+            "A) Çin entrikalarına karşı uyarı",
+            "B) Kağanların kahramanlıkları",
+            "C) Halkın birliğine çağrı",
+            "D) Yerleşik hayata geçiş teşviki",
+            "E) Türk devlet geleneği vurgusu"
+        ],
+        "a": 3,
+        "e": "Doğru cevap D. Orhun Yazıtları göçebe hayatı ve Çin tehlikesini vurgular, yerleşik hayatı teşvik etmez."
+    },
+    {
+        "id": "tarih_187",
+        "topicId": "JnFbEQt0uA8RSEuy22SQ",
+        "subtopicId": "turk-devletlerinde-ordu",
+        "subtopic": "Türk Devletlerinde Ordu",
+        "q": "I. Asya Hunlarında ordu tamamen profesyoneldi.\nII. Göktürklerde toy toplantıları ordu başında yapılırdı.\nIII. Batı Hunlarında piyade birlikleri ön plandaydı.\nYukarıdakilerden hangileri İslamiyet öncesi Türk devletlerinde yanlıştır?",
+        "o": [
+            "A) Yalnız I",
+            "B) Yalnız II",
+            "C) I ve III",
+            "D) II ve III",
+            "E) I, II ve III"
+        ],
+        "a": 2,
+        "e": "Doğru cevap C. I ve III yanlıştır; Hun orduları süvari ağırlıklı ve kısmen profesyoneldi, toy ise kurultaydır."
     }
 ]
